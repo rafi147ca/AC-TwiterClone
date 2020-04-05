@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AC-TwiterClone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">7f5dTq9OJrc2gMce8SeE7IQ2MPd9bJexg6kZiMdQ</string>
+    <string name="back4app_client_key">U1fW1YMVEJalEIgmcVAXKU2HRn20st6TOH2n0hk0</string>
+</resources>
